@@ -1,6 +1,6 @@
 # OSPF
 
-![](https://raw.githubusercontent.com/atabegruslan/Cisco/master/Illustrations/ospf.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Cisco/master/Illustrations/ospf.PNG)
 
 ## Configuration for the router follows: 
 
