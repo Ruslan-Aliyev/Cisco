@@ -1,6 +1,6 @@
 # EIGRP
 
-![](https://raw.githubusercontent.com/atabegruslan/Cisco/master/Illustrations/eigrp.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Cisco/master/Illustrations/eigrp.PNG)
 
 ## The following code configures Router 1
 
