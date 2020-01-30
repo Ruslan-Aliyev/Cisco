@@ -1,8 +1,8 @@
 # Frame Relay
 
-![](https://raw.githubusercontent.com/atabegruslan/Cisco/master/Illustrations/fr_subif_1.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Cisco/master/Illustrations/fr_subif_1.PNG)
 
-![](https://raw.githubusercontent.com/atabegruslan/Cisco/master/Illustrations/fr_subif_2.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Cisco/master/Illustrations/fr_subif_2.PNG)
 
 ## Configuration for Router 2 follows: 
 
