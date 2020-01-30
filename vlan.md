@@ -1,6 +1,6 @@
 # VLAN
 
-![](https://raw.githubusercontent.com/atabegruslan/Cisco/master/Illustrations/vlan.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Cisco/master/Illustrations/vlan.PNG)
 
 ## The configurations follows:
 
