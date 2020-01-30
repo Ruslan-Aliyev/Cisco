@@ -1,6 +1,6 @@
 # DHCP
 
-![](https://raw.githubusercontent.com/atabegruslan/Cisco/master/Illustrations/dhcp.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Cisco/master/Illustrations/dhcp.PNG)
 						
 ## Configuration for the router follows: 
 
