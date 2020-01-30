@@ -1,6 +1,6 @@
 # NAT
 
-![](https://raw.githubusercontent.com/atabegruslan/Cisco/master/Illustrations/nat.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Cisco/master/Illustrations/nat.PNG)
 
 ## Configuration for the router follows: 
 
